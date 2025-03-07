@@ -1,8 +1,6 @@
-# medical-chatbot
 
-RAG based custom medical chatbot.
 
-# End-to-end-Medical-Chatbot-Generative-AI
+# RAG-Medical-Chatbot-Generative-AI
 
 
 # How to run?
