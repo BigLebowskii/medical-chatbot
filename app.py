@@ -20,7 +20,7 @@ os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 embeddings = download_hugging_face_embeddings()
 
-index_name = "medicalbot"
+index_name = "medical-bot"
 
 docsearch = PineconeVectorStore.from_existing_index(
     index_name=index_name,
