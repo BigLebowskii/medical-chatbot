@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -53,6 +54,8 @@ dist/
 build/
 *.egg-info/
 =======
+=======
+>>>>>>> 592b6f7a54749fbe344bb5392d32aab1306fb945
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -106,4 +109,7 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+<<<<<<< HEAD
+>>>>>>> 592b6f7a54749fbe344bb5392d32aab1306fb945
+=======
 >>>>>>> 592b6f7a54749fbe344bb5392d32aab1306fb945
