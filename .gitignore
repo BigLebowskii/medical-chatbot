@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+*.out
+
+# Data files
+*.csv
+*.json
+*.db
+*.sqlite3
+
+# Machine learning / AI artifacts
+*.h5
+*.pkl
+*.joblib
+*.onnx
+*.tflite
+*.pt
+*.pth
+
+# Model directories
+models/
+checkpoints/
+
+# Cache files
+.cache/
+__pycache__/
+
+# Editor and OS-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+*.egg-info/
